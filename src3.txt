@@ -1,0 +1,67 @@
+The topic of evaluation (broadly considered) has risen in prominence
+in the information visualization research community over the past few
+years. To some degree, the novelty of creating new techniques and
+system has worn off, or at least researchers have broadened their
+views beyond just creating new visualization techniques. The community
+has become more reflective and introspective, and thus evaluation
+seems to be a topic on everyone's minds currently.
+
+What does "evaluation" mean in the context of information
+visualization, however? What are we evaluating? For what purposes are
+we evaluating? I think these questions are more subtle than one would
+immediately surmise, and the answers are nuanced.
+
+One potential angle of evaluation is to improve the techniques and
+systems one builds. That is, a developer of a new system should
+evaluate it and find the embedded problems and faults in order to help
+improve the system and make it better. This activity can be iterated
+repeatedly and is a fundamental component of formative evaluation that
+one encounters in the area of human-computer interaction.
+
+A second style of evaluation is to compare two specific approaches to
+each other. Is technique A or technique B a better approach for a
+given problem? The specificity of this type of evaluation is appealing
+in many ways, but it is frequently quite difficult to conduct such an
+evaluation in the field of information visualization because very few
+techniques or systems are built for the exact same purpose, domain,
+and the same type of data.  Examples of this type of evaluation do
+exist [12,27] but it is typically very difficult to "compare apples to
+apples."
+
+Another angle of evaluation is more general than these first two. When
+a person develops a new visualization technique or system, there is a
+fundamental desire to determine whether it is any good. Simply put, is
+the technique useful and beneficial? Researchers want to show the
+value and utility of their new ideas, and they seek methods to answer
+those questions.
+
+This notion of showing or identifying utility and value is one way to
+slightly recast the challenge of evaluation in information
+visualization. Rather than thinking about evaluating techniques and
+systems, one could focus on identifying the potential value of a
+system. Hence, the evaluation of a technique or system becomes a
+process where one identifies and illustrates its value.
+
+I also believe that the notion of identifying value has a broader
+scope than evaluation does. Researchers in other fields probably will
+not be so interested in the evaluation of a particular visualization
+system. Conversely, showing the value of a visualization technique can
+be extremely important at a more general scale. Many approaches to
+analyzing and presenting data exist; visualization is just one of many
+approaches available to people and organizations today. Identifying
+the value of visualization better is vital to educating people not so
+familiar with the domain and convincing them of the potential impact
+that a visualization approach can achieve.
+
+In the remainder of this article, I explore why the process of
+"evaluation" is more problematic in visualization research than in
+human-computer interaction research, on the whole. I recast the
+evaluation of a visualization as identifying its value, and I develop
+a qualitative formula for determining visualization's value. Although
+the equation is more descriptive than prescriptive, it should help
+researchers to more accurately and objectively assess and identify the
+value of their new ideas, and it should help to more specifically
+communicate visualization's utility to those people less familiar with
+the area. Finally, I explain the fundamental importance of interaction
+in the value equation even though it is still the less understood half
+of information visualization.

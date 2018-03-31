@@ -1,0 +1,4 @@
+the: 3
+this: 3
+happy: 2
+alice: 0

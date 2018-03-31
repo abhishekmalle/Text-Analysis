@@ -1,0 +1,141 @@
+A.B.    Artium Baccalaureus [Bachelor of Arts]
+abbr.   abbreviation(s), abbreviated
+Acad.   Academy
+A.D.    anno Domini [in the year of the Lord]
+alt.    altitude
+A.M.    ante meridiem [before noon]; Artium Magister [Master of Arts]
+AM  amplitude modulation
+Assn.   Association
+Aug.    August
+Ave.    Avenue
+AWOL    absent without leave
+b.  born, born in
+B.A.    Bachelor of Arts
+B.C.    Before Christ
+b.p.    boiling point
+B.S.    Bachelor of Science
+Btu British thermal unit(s)
+C   Celsius (centigrade)
+c.  circa [about]
+cal calorie(s)
+Capt.   Captain
+cent.   century, centuries
+cm  centimeter(s)
+co. county
+Col.    Colonel; Colossians
+Comdr.  Commander
+Corp.   Corporation
+Cpl.    Corporal
+cu  cubic
+d.  died, died in
+D.C.    District of Columbia
+Dec.    December
+dept.   department
+dist.   district
+div.    division
+Dr. doctor
+E   east, eastern
+ed. edited, edition, editor(s)
+est.    established; estimated
+F   Fahrenheit
+Feb.    February
+fl. floruit [flourished]
+FM  frequency modulation
+ft  foot, feet
+gal.    gallon(s)
+Gen.    General, Genesis
+GMT Greenwich mean time
+GNP gross national product
+GOP Grand Old Party (Republican Party)
+Gov.    governor
+grad.   graduated, graduated at
+H   hour(s)
+Hon.    the Honorable
+hr  hour(s)
+i.e.    id est [that is]
+in. inch(es)
+inc.    incorporated
+Inst.   Institute, Institution
+IRA Irish Republican Army
+IRS Internal Revenue Service
+Jan.    January
+Jr. Junior
+K   Kelvin
+kg  kilogram(s)
+km  kilometer(s)
+£   libra [pound], librae [pounds]
+lat.    latitude
+lb  libra [pound], librae [pounds]
+Lib.    Library
+long.   longitude
+Lt. Lieutenant
+Ltd.    Limited
+m   meter(s)
+M   minute(s)
+M.D.    Medicinae Doctor [Doctor of Medicine]
+mg  milligram(s)
+mi  mile(s)
+min minute(s)
+mm  millimeter(s)
+mph miles per hour
+Mr. Mister (always abbreviated)
+Mrs.    Mistress (always abbreviated)
+Msgr    Monsignor
+mt. Mount, Mountain
+mts.    mountains
+Mus.    Museum
+N   north; Newton(s)
+NAACP   National Association for the Advancement of Colored People
+NASA    National Aeronautics and Space Administration
+NATO    North Atlantic Treaty Organization
+NE  northeast
+no. number
+Nov.    November
+OAS Organization of American States
+Oct.    October
+Op. Opus [work]
+oz  ounce(s)
+pl. plural
+pop.    population
+pseud.  pseudonym
+pt. part(s)
+pt  pint(s)
+pub.    published; publisher
+qt  quart(s)
+Rev.    Revelation; the Reverend
+rev.    revised
+R.N.    registered nurse
+rpm revolution(s) per minute
+RR  railroad
+S   south
+S   second(s)
+SEATO   Southeast Asia Treaty Organization
+SEC Securities and Exchange Commission
+sec second(s); secant
+Sept.   September
+Ser.    Series
+Sgt.    Sergeant
+sq  square
+Sr. Senior
+SSR Soviet Socialist Republic
+St. Saint; Street
+UNICEF  United Nations Children's Fund
+uninc.  unincorporated
+Univ.   University
+U.S.    United States
+USA United States Army
+USAF    United States Air Force
+USCG    United States Coast Guard
+USMC    United States Marine Corps
+USN United States Navy
+USSR    Union of Soviet Socialist Republics
+VFW Veterans of Foreign Wars
+VISTA   Volunteers in Service to America
+vol.    volume(s)
+vs. versus
+W   west; watt(s)
+WHO World Health Organization
+wt. weight
+yd  yard(s)
+YMCA    Young Men's Christian Association
+YWCA    Young Women's Christian Association
