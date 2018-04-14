@@ -65,6 +65,7 @@ public class TextCheck {
                 int a = 1;
             }
         } while (problems);
+        scan.close();
 
         // printing results/info to the console
         System.out.println("Analyzing");
